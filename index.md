@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 2006 Singleplayer by mige5
 
 You can use the [editor on GitHub](https://github.com/2006rs/singleplayer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
